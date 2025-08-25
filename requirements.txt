@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+chromadb
+sentence-transformers
+PyMuPDF
+pydantic
+openai>=1.30.0
+streamlit
